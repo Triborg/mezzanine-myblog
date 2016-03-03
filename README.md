@@ -1,6 +1,5 @@
 # mezzanine-myblog
 my blog on mezzanine
-this is for my own blog 
 ..
 git clone git://github.com/Triborg/mezzanine-myblog.git/
 ..
